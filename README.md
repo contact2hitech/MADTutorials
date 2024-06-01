@@ -1,6 +1,6 @@
-# Practical_Assignment
+# MAD Tutorials
 
-Welcome to the Android Practical_Assignment 305 MAD-1 Tutorial Demo repository! 
+Welcome to the MAD Tutorials Android Practical_Assignment 305 Demo repository! 
 
 This project serves as a starting point for Android app development and provides hands-on examples and tutorials for beginners.
 
@@ -29,7 +29,7 @@ Follow these steps to get this Android app up and running on your local machine.
 
    
    ```bash
-   git clone https://github.com/sbccas/Practical_Assignment.git
+   git clone https://github.com/contact2hitech/MADTutorials.git
 
 ### Open the project in Android Studio.
 
@@ -56,7 +56,10 @@ Follow these steps to get this Android app up and running on your local machine.
 
 ## Acknowledgments
    Developed for the Students of SYBCA Mobile Application Track.
-## Contact
-   If you have questions or need further assistance, feel free to contact us at info@amrolicollege.ac.in
 
-  Happy Mobile Application Developing...!
+## Contact
+For any questions or feedback, please reach out at:
+- **Email**: contact2hitech@gmail.com
+- **GitHub**: [contact2hitech](https://github.com/contact2hitech)
+
+Happy Mobile Application Developing...!
